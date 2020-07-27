@@ -10,7 +10,7 @@ The idea of this repository is that you have a solution base and if you think yo
   - Security Bijective Functions
   - Security Encryption Scheme
   - Security Function Inverses
-  - Security Functions_ II
+  - Security Functions II
   - Security Functions
   - Security Involution
   - Security Key Spaces
